@@ -46,5 +46,4 @@
 <br><br>
 
 ### Notion 링크
-- 분석 과정 및 결과
-> https://www.notion.so/2-80bfe3ff548e421bace5fa2106815330?pvs=4
+> https://www.notion.so/6c4e0f3adf464aaaac25053425561a2e?pvs=4
