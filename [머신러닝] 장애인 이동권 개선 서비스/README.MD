@@ -1,4 +1,4 @@
-# 2차 미니프로젝트
+# 1차 미니프로젝트
 ![장애인 콜택시](https://www.sisul.or.kr/open_content/calltaxi/images/visual_img.jpg)
 
 
