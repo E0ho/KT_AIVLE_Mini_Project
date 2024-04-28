@@ -12,7 +12,7 @@
 
 - 이에, 과거 2015년 ~ 2022년 장애인 콜택시 운행 정보와 날씨 정보 등을 활용하여, 차량 호출 전 차량 대기 시간을 예측하는 모델을 개발하고자 한다.
 
-    ![alt text](image/image.png)
+    ![alt text](image/image0.png)
 
 <br><br>
 
